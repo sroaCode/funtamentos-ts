@@ -1,0 +1,6 @@
+
+
+npx tsc
+npx tsc --init //inicializar un archivo
+npx tsc "01 - hello.ts" --outDir ../dist //deja la salid en una carpeta
+npx tsc --watch //ejecucion continua
