@@ -10,8 +10,8 @@
     console.log('customerAge', customerAge);
 
     let productInStock : number;
-    console.log(`Imprimimos el valor de la variable productInStock = ${productInStock}`); //Variable 'productInStock' is used before being assigned.
-    if(productInStock > 10)  ////Variable 'productInStock' is used before being assigned.
+    //console.log(`Imprimimos el valor de la variable productInStock = ${productInStock}`); //Variable 'productInStock' is used before being assigned.
+    //if(productInStock > 10)  ////Variable 'productInStock' is used before being assigned.
     {
         console.log("is good !!");
     }
